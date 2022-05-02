@@ -1,0 +1,74 @@
+[
+  {
+    "x": 460.85913752391525,
+    "y": 43.292835960406876,
+    "label": "1",
+    "status": "solution",
+    "distance": 0,
+    "flags": {
+      "hover": false,
+      "dragging": false
+    },
+    "radius": 15
+  },
+  {
+    "x": 361.2124361576741,
+    "y": 136.55935873026516,
+    "label": "2",
+    "status": "visited",
+    "distance": 3,
+    "flags": {
+      "hover": false,
+      "dragging": false
+    },
+    "radius": 15
+  },
+  {
+    "x": 558.1556258462269,
+    "y": 130.6481897924179,
+    "label": "3",
+    "status": "solution",
+    "distance": 5,
+    "flags": {
+      "hover": false,
+      "dragging": false
+    },
+    "radius": 15
+  },
+  {
+    "x": 360.57212416636094,
+    "y": 275.0667471919525,
+    "label": "4",
+    "status": "solution",
+    "distance": 13,
+    "flags": {
+      "hover": false,
+      "dragging": false
+    },
+    "radius": 15
+  },
+  {
+    "x": 457.6685952122025,
+    "y": 396.5782139859573,
+    "label": "6",
+    "status": "solution",
+    "distance": 9,
+    "flags": {
+      "hover": false,
+      "dragging": false
+    },
+    "radius": 15
+  },
+  {
+    "x": 560.6738727418368,
+    "y": 273.85615671630256,
+    "label": "5",
+    "status": "solution",
+    "distance": 7,
+    "flags": {
+      "hover": false,
+      "dragging": false
+    },
+    "radius": 15
+  }
+]
